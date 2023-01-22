@@ -1,0 +1,4 @@
+baseURL = 'https://thejevans.github.io/left-of-tech-blog/'
+languageCode = 'en-us'
+title = 'leftof.tech'
+theme = 'kaslaanka'
