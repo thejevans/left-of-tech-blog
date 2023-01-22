@@ -1,4 +1,10 @@
 baseURL = 'https://thejevans.github.io/left-of-tech-blog/'
 languageCode = 'en-us'
 title = 'leftof.tech'
+author = 'John Evans'
 theme = 'kaslaanka'
+
+[params]
+    sitename = 'leftof.tech'
+    copyrights = 'John Evans'
+    brief_about = 'Resilient and repairable technology in a capitalist society'
