@@ -1,4 +1,4 @@
-baseURL = 'https://thejevans.github.io/left-of-tech-blog/'
+baseURL = 'https://leftof.tech'
 languageCode = 'en-us'
 title = 'leftof.tech'
 author = 'John Evans'
